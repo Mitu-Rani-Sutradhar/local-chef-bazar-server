@@ -1,3 +1,4 @@
 node_modules
 .env
 chef-bazaar-firebase-adminsdk.json
+.vercel
